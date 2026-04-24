@@ -46,8 +46,5 @@ Open in Google Colab with an R runtime (Runtime → Change runtime type → R), 
 - A multiple linear regression model predicts customer rating with test-set R^2 = 0.45
 - MongoDB compound and multikey indexes reduce document scans by 99%+ on realistic ops queries
 
-## Author
-
-Yusuf Josef Shakir  
-Student ID: 33114323  
-University of West London, 2025-26
+Yusuf Shakir  
+Student ID: 33114323
